@@ -1,6 +1,6 @@
 # EXNO11AI
 Planning –  Block World Problem 
-### DATE:  09-09-2024                                                                          
+### DATE:  20/02/2025                                                                         
 ### REGISTER NUMBER : 212221060180
 ### AIM: 
 To find the sequence of plan for Block word problem using PDDL  
